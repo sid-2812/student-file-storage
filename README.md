@@ -214,7 +214,7 @@ Sensitive and unnecessary local files are excluded through `.gitignore`:
 
 #### EC2 Instance
 
-![EC2 Instance](screenshots/04-ec2-v2-running.png)
+![EC2 Instance](screenshots/04-ec2-instance-running.png)
 
 #### Session Manager
 
@@ -234,7 +234,7 @@ Sensitive and unnecessary local files are excluded through `.gitignore`:
 
 #### CloudVault Application
 
-![CloudVault Application](screenshots/08-application-running.png)
+![CloudVault Application](screenshots/08-application-running-final.png)
 
 #### Successful File Upload
 
